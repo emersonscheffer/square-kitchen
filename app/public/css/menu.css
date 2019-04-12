@@ -1,0 +1,43 @@
+
+/* font-family: 'Sigmar One', cursive;
+font-family: 'Carter One', cursive;
+font-family: 'Bowlby One SC', cursive; */
+
+#title {
+    font-family: 'Bowlby One SC', cursive;
+    font-size: 3em;
+    margin-top: 20px;
+    color: red;
+    text-align: center;
+    width: 85%;
+    margin: 0 auto;
+}
+
+#menu-list {
+    width: 85%;
+    margin: 0 auto;
+    font-family: 'Bowlby One SC', cursive;
+    font-size: 1.2em;
+    margin-top: 20px;
+}
+
+#checBtn {
+    height: 35px;
+}
+ul {
+    margin-bottom: 20px;
+}
+li {
+    margin-bottom: 20px;
+}
+#itLi {
+    margin-bottom: 20px;
+}
+
+#add-to-cart {
+    height: 35px;
+    background-color: rgb(204, 204, 204);
+
+    border-radius: 4px;
+    margin-left: 10%;
+}

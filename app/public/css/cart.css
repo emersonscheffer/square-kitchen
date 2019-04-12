@@ -1,0 +1,73 @@
+header {
+    background-image: url("../imgs/bgHeaderControl.jpg");
+}
+
+#title {
+    font-family: 'Bowlby One SC', cursive;
+    font-size: 3em;
+    margin-top: 20px;
+    color: red;
+    text-align: center;
+    width: 85%;
+    margin: 0 auto;
+}
+
+#article-cart {
+    width: 85%;
+    margin: 0 auto;
+    font-size: 1.5em;
+    margin-top: 35px;
+}
+
+li {
+    margin-bottom: 15px; 
+}
+
+#total-cart {
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+
+#grubhub{
+    float: left;
+    margin-right: 10px;
+}
+#grubhub:hover{
+    box-shadow: 0px 0px 5px black;
+}
+#grubhub:active{
+    box-shadow: 0px 0px 15px black;
+}
+#uber-eats{
+    float: left;
+    margin-right: 10px;
+}
+#uber-eats:hover{
+    box-shadow: 0px 0px 5px black;
+}
+#uber-eats:active{
+    box-shadow: 0px 0px 15px black;
+}
+
+#doordash{
+    float: left;
+    margin-right: 30px;
+}
+#doordash:hover{
+    box-shadow: 0px 0px 5px black;
+}
+#doordash:active{
+    box-shadow: 0px 0px 15px black;
+}
+
+#order-btn {
+    clear: both;
+    height: 55px;
+    width: 170px;
+    font-weight: bold;
+    border-radius: 4px;
+    margin-top: 20px;
+    font-size: 0.7em;
+}
+

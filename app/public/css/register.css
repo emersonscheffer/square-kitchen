@@ -1,0 +1,107 @@
+#warehouse-map {
+    width: 400px;
+    height: 200px;
+    border: solid 1px #6b4c0a;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 5px;
+}
+
+.slot {
+    background-color: #ad0101;
+    box-sizing: border-box;
+    border: solid 2px #6b4c0a;
+    color: white;
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
+    vertical-align: middle;
+    display: grid;
+}
+.slot h4{
+    align-self: center;
+}
+
+#register-page {
+    margin: 0 auto;
+    width: 85%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+#artricle-register {
+    grid-column: 1/2;
+}
+
+#artricle-register p{
+   font-size: 1.4em;
+   margin-bottom: 10px;
+}
+
+#comp_name {
+    width: 90%;
+    height: 35px;
+    border: solid 1px black;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+#btn-control {
+    height: 35px;
+}
+
+#aside-register {
+    grid-column: 2/4;
+}
+
+#aside-register p{
+    margin-bottom: 10px;
+}
+#warehouse-map {
+    margin-bottom: 10px;
+}
+
+
+#rest_name {
+    width: 90%;
+    height: 35px;
+    border: solid 1px black;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+#food_type {
+    width: 90%;
+    height: 35px;
+    border: solid 1px black;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+#website_url {
+    width: 90%;
+    height: 35px;
+    border: solid 1px black;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+#tel_number {
+    width: 90%;
+    height: 35px;
+    border: solid 1px black;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+#description {
+    width: 90%;
+    height: 50px;
+    border: solid 1px black;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+
+#submit-btn-new-restaurant {
+    height: 35px;
+}
+
+

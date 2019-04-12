@@ -1,0 +1,46 @@
+
+header {
+    background-image: url("../imgs/bgHeaderControl.jpg");
+}
+
+#title {
+    font-family: 'Bowlby One SC', cursive;
+    font-size: 3em;
+    margin-top: 20px;
+    color: red;
+    text-align: center;
+    width: 85%;
+    margin: 0 auto;
+}
+#article-control {
+    width: 85%;
+    margin: 0 auto;
+}
+
+#article-control p{
+    font-size: 1.2em;
+    margin-bottom: 15px;
+}
+
+#item_name {
+    height: 35px;
+    width: 50%;
+    border-radius: 4px;
+    border: solid 1px black;
+}
+
+#item_price {
+    height: 35px;
+    width: 20%;
+    border-radius: 4px;
+    border: solid 1px black;
+}
+
+#btn-add-item-menu {
+    height: 35px;
+}
+#menu-preview{
+    margin-top: 20px;
+    font-family: 'Bowlby One SC', cursive;
+    font-size: 1.3em;
+}
